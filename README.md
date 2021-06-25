@@ -1,12 +1,10 @@
-# :warning: The developer documentation is incorrect and not updated. :warning:
-
-![Logo](https://raw.githubusercontent.com/EzCarProject/EzCar/main/Content/Cover.png?token=AQIR5PXHKHXR2ZW5ZJ7TC63ACYQPO)
+![Logo](https://raw.githubusercontent.com/RED7Studios/RED7Studios.EzCarRecode/main/Content/Cover.png)
 ## Description
 EzCar is a music player meant and built just for cars, it has an elegant UI. It has a plugin system making it really easy to add on to your car.
 
-![Downloads](https://img.shields.io/github/downloads/EzCarProject/EzCar/total)
-![Repo Size](https://img.shields.io/github/repo-size/EzCarProject/EzCar)
-![Version](https://img.shields.io/github/v/release/EzCarProject/EzCar)
+![Downloads](https://img.shields.io/github/downloads/RED7Studios/RED7Studios.EzCarRecode/total)
+![Repo Size](https://img.shields.io/github/repo-size/RED7Studios/RED7Studios.EzCarRecode)
+![Version](https://img.shields.io/github/v/release/RED7Studios/RED7Studios.EzCarRecode)
 
 ## Installation
 **_Requirements:_**
@@ -16,7 +14,7 @@ EzCar is a music player meant and built just for cars, it has an elegant UI. It 
 
 **_Steps:_**
 1. Download EzCar<br>
-To download EzCar, just navigate to "https://updates.cldm.ml/ezcar" and then hit the "Latest Download".<br>
+To download EzCar, just navigate to "https://github.com/RED7Studios/RED7Studios.EzCarRecode/releases/latest" and then hit the "Download .zip file".<br>
 ![Downloading EzCar](https://i.imgur.com/PtrOGMJ.png)<br>
 
 2. Extract EzCar Update Zip<br>
