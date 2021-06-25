@@ -1,0 +1,6 @@
+F:\GitHub\RED7Studios.EzCarRecode\RED7Studios.ECMURecode.Interface\bin\Debug\RED7Studios.ECMURecode.Interface.dll
+F:\GitHub\RED7Studios.EzCarRecode\RED7Studios.ECMURecode.Interface\bin\Debug\RED7Studios.ECMURecode.Interface.pdb
+F:\GitHub\RED7Studios.EzCarRecode\RED7Studios.ECMURecode.Interface\obj\Debug\RED7Studios.ECMURecode.Interface.csproj.AssemblyReference.cache
+F:\GitHub\RED7Studios.EzCarRecode\RED7Studios.ECMURecode.Interface\obj\Debug\RED7Studios.ECMURecode.Interface.csproj.CoreCompileInputs.cache
+F:\GitHub\RED7Studios.EzCarRecode\RED7Studios.ECMURecode.Interface\obj\Debug\RED7Studios.ECMURecode.Interface.dll
+F:\GitHub\RED7Studios.EzCarRecode\RED7Studios.ECMURecode.Interface\obj\Debug\RED7Studios.ECMURecode.Interface.pdb

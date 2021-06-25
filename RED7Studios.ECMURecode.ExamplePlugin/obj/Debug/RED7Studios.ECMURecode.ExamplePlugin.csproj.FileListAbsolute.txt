@@ -1,0 +1,9 @@
+F:\GitHub\RED7Studios.EzCarRecode\RED7Studios.ECMURecode.ExamplePlugin\bin\Debug\RED7Studios.ECMURecode.ExamplePlugin.dll
+F:\GitHub\RED7Studios.EzCarRecode\RED7Studios.ECMURecode.ExamplePlugin\bin\Debug\RED7Studios.ECMURecode.ExamplePlugin.pdb
+F:\GitHub\RED7Studios.EzCarRecode\RED7Studios.ECMURecode.ExamplePlugin\bin\Debug\RED7Studios.ECMURecode.Interface.dll
+F:\GitHub\RED7Studios.EzCarRecode\RED7Studios.ECMURecode.ExamplePlugin\bin\Debug\RED7Studios.ECMURecode.Interface.pdb
+F:\GitHub\RED7Studios.EzCarRecode\RED7Studios.ECMURecode.ExamplePlugin\obj\Debug\RED7Studios.ECMURecode.ExamplePlugin.csproj.AssemblyReference.cache
+F:\GitHub\RED7Studios.EzCarRecode\RED7Studios.ECMURecode.ExamplePlugin\obj\Debug\RED7Studios.ECMURecode.ExamplePlugin.csproj.CoreCompileInputs.cache
+F:\GitHub\RED7Studios.EzCarRecode\RED7Studios.ECMURecode.ExamplePlugin\obj\Debug\RED7Studios.ECMURecode.ExamplePlugin.csproj.CopyComplete
+F:\GitHub\RED7Studios.EzCarRecode\RED7Studios.ECMURecode.ExamplePlugin\obj\Debug\RED7Studios.ECMURecode.ExamplePlugin.dll
+F:\GitHub\RED7Studios.EzCarRecode\RED7Studios.ECMURecode.ExamplePlugin\obj\Debug\RED7Studios.ECMURecode.ExamplePlugin.pdb
