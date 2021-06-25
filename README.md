@@ -39,7 +39,7 @@ Double-click it (errors after start, just press okay on them and press on an art
 
 **_Steps:_**
 1. Download EzCar Source Code<br>
-To download the EzCar Source Code, just navigate to "https://github.com/EzCarProject/EzCar/archive/main.zip".<br>
+To download the EzCar Source Code, just navigate to "https://github.com/RED7Studios/RED7Studios.EzCarRecode/archive/main.zip".<br>
 <br>
 2. Extract EzCar Source Code Zip<br>
 Find the "EzCar-main.zip" file, right-click it and press "Extract All" (built-in)<br>
