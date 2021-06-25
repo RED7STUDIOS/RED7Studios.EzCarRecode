@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/RED7Studios/RED7Studios.EzCarRecode/main/Content/Cover.png)
+![Logo](https://github.com/RED7Studios/RED7Studios.EzCarRecode/raw/main/Content/Cover.png)
 ## Description
 EzCar is a music player meant and built just for cars, it has an elegant UI. It has a plugin system making it really easy to add on to your car.
 
